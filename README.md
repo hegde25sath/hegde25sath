@@ -1,8 +1,8 @@
 ### Hi
 
-I'm Sathvik, and I'm currently a sophomore at Purdue studying computer science. 
+I'm Sathvik, and I'm a computer science student at Purdue graduating in May 2027. My focus is in [computational science and engineering](https://www.cs.purdue.edu/undergraduate/curriculum/track-cse-fall2023.html), and supporting that is my mathematics minor. 
 
-Languages:
-  - C, Java, Python
+Languages that I am proficient in, in descending order of fluency, are:
+  - Java, C, Python, x86_64 assembly, 
 
-Contact me if you would like to get in touch.
+Feel free to contact me through my LinkedIn.
