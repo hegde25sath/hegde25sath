@@ -7,4 +7,8 @@ Languages that I am proficient in, in descending order of fluency, are:
 
 Feel free to contact me through my LinkedIn.
 
-[![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegde25sath)](https://github.com/anuraghazra/github-readme-stats)
+[![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegde25sath&show_icons=true&theme=dracula&bg_color=00000000#gh-dark-mode-only)](https://github.com/hegde25sath/#gh-dark-mode-only)
+[![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegde25sath&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/hegde25sath/#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegde25sath&layout=donut&theme=dracula&hide_progress=false&bg_color=00000000)](https://github.com/hegde25sath/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegde25sath&layout=donut&theme=default&hide_progress=false&bg_color=00000000)](https://github.com/hegde25sath/#gh-light-mode-only)
