@@ -1,6 +1,6 @@
 ### Hi
 
-I'm Sathvik, and I'm a computer science and senior @ Purdue. My focus is in [computational science and engineering](https://www.cs.purdue.edu/undergraduate/curriculum/track-cse-fall2023.html). I am interested in systems programming, as well as programming language theory.
+I'm Sathvik, and I'm a computer science senior @ Purdue, with a minor in maths.. My focus is in [computational science and engineering](https://www.cs.purdue.edu/undergraduate/curriculum/track-cse-fall2023.html). I am interested in systems programming, as well as programming language theory.
 
 Languages that I am proficient in, in descending order of fluency, are:
   - C, Java, Python, OCaml, x86-64, R
